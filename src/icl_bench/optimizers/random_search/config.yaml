@@ -1,0 +1,4 @@
+dev_size: 30
+test_size: 100
+n_epochs: 10
+problem_type: "MATH"
