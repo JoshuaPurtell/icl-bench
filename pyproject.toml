@@ -1,0 +1,14 @@
+[project]
+name = "icl-bench"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "smallbench==0.1.18",
+    "apropos-ai==0.3.2",
+]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
