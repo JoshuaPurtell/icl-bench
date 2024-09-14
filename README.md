@@ -9,8 +9,8 @@ Define Delta as (E[Optimized] - E[Baseline])/ SD(Optimized). Deltas below 1 prob
 
 | Student Model Name | Teacher Model Name | N Demos | Task | DAG | Delta | Score Mean | Score Std | Baseline Score | Train Compute | Test Cost |
 |---------------------|---------------------|---------|------|-----|-------|------------|-----------|----------------|---------------|-----------|
-| gpt-4o-mini         | gpt-4o-mini         | 4       | MATH | TRIVIAL | 0.6238 | 0.661      | 0.009     | 0.655          | ???           | ????      |
-| gpt-4o-mini         | gpt-4o-2024-08-06   | 4       | MATH | TRIVIAL | -0.5656 | 0.645     | 0.017     | 0.655          | ???           | ????      |
+| gpt-4o-mini         | gpt-4o-2024-08-06        | 4       | MATH | TRIVIAL | 0.6238 | 0.661      | 0.009     | 0.655          | ???           | ????      |
+| gpt-4o-mini         | gpt-4o-mini         | 4       | MATH | TRIVIAL | -0.5656 | 0.645     | 0.017     | 0.655          | ???           | ????      |
 
 ### MIPRO v2.1 + Plan-Act/Reformulate-Reason-Return MATH/BCB - Student
 
